@@ -10,7 +10,7 @@ public class studentController {
 	
 	@GetMapping("/show")
 	@ResponseBody
-	public String testing(Model model)
+	public String testing()
 	{
 	
 		return "testing done successfully!!!";
