@@ -1,0 +1,3 @@
+com\example\configurations\dispatcherServletInitializer.class
+com\example\smControllers\studentController.class
+com\example\configurations\AppConfig.class
